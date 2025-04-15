@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
-<!-- <h3 align="center">🚀 Computer Science Undergrad | 💻 Full-Stack MERN Developer | 🌐 Passionate about Web Tech & Open Source</h3>
- -->
+<h3 align="center">🚀 Computer Science Undergrad | 💻 Full-Stack MERN Developer | 🌐 Passionate about Web Tech & Open Source</h3>
+
 ---
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
