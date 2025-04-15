@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">Full-Stack Developer | CSE @ RGIPT | Passionate about Clean Code & Modern Web</h3>
+<h1 align="center">Hey 👋 I'm Sourabh</h1>
+<h3 align="center">Full-Stack Developer | CS @ RGIPT | Building Scalable & Modern Web Experiences</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 💡 About Me
+### 🚀 About Me
 
 - 🎓 CS undergrad @ **Rajiv Gandhi Institute of Petroleum Technology**
 - 💻 I enjoy building fast, responsive, and scalable web apps
@@ -16,10 +16,10 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,docker,git,github,aws" />
 </p>
 
 ---
@@ -34,15 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOURABH-05&show_icons=true&theme=tokyonight" alt="Sourabh's GitHub Stats" />
-</p>
-
----
-
-### 🔥 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SOURABH-05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SOURABH-05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
