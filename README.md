@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Sourabh</h1>
+<h1 align="center">Hey 👋 I'm Sourabh Dharra</h1>
 <h3 align="center">Full-Stack Developer | CS @ RGIPT | Building Scalable & Modern Web Experiences</h3>
 
 <p align="center">
