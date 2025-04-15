@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Sourabh Dharra</h1>
+<h1 align="center">Hey 👋 I'm Sourabh Dharra!</h1>
 <h3 align="center">Full-Stack Developer | CS @ RGIPT | Building Scalable & Modern Web Experiences</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CS undergrad @ **Rajiv Gandhi Institute of Petroleum Technology**
+- 🎓 Pre-Final Year BTech CS Undergrad @ **Rajiv Gandhi Institute of Petroleum Technology**
 - 💻 I enjoy building fast, responsive, and scalable web apps
 - 🚀 Love working across the stack from backend logic to UI polish
 - 📚 Exploring new tech in AI/ML, DevOps, and performance optimization
